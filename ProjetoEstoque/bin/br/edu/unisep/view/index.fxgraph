@@ -1,0 +1,10 @@
+package br.edu.unisep.view
+
+import javafx.scene.layout.AnchorPane
+import br.edu.unisep.view.IndexController
+
+component index controlledby IndexController {
+	AnchorPane {
+		//TODO Add Nodes
+	}
+}
